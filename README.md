@@ -1,5 +1,46 @@
-# 💫 About Me:
-I'm currently working on<br><br>Developing an evaluation system for Large Language Models (LLMs) called LMVal, automating assessment across 6+ metrics (like accuracy, faithfulness) using LangChain, LangGraph, and Docker.<br><br><br>Building an interactive Streamlit dashboard for LMVal with Plotly for real-time performance analysis, multi-provider API integration (Groq, OpenAI), and exportable reports.<br><br>Exploring advanced Generative AI and Agentic AI workflows using tools like LangGraph and CrewAI.<br><br><br>I'm looking to collaborate on<br><br>Projects involving advanced Generative AI and Large Language Model (LLM) evaluation and fine-tuning.<br><br><br>Developing scalable MLOps pipelines for automated model deployment and API integration using tools like Docker, MLflow, and FastAPI.<br><br><br>Research and application of Quantum Computing in areas like Finance, Blockchain, and Stock Market Predictions, related to my upcoming book chapter.<br><br>I'm looking for help with<br><br>Optimizing CI/CD pipelines for complex LLM applications using GitHub Actions and Jenkins.<br><br><br>Advanced system design for high-load AI/ML platforms.<br><br>I'm currently learning<br><br>In-depth concepts in Computer Vision and GANs.<br><br>Advanced techniques in Cybersecurity and Networking (CCNA, CISCO).<br><br><br>Cloud services and infrastructure, specifically AWS Cloud Practitioner.<br><br>Ask me about<br><br>Generative AI, LLM evaluation, and building agentic workflows.<br><br><br>Developing personalized AI recommendation systems, like the InDiet platform.<br><br><br>Data analysis and interactive dashboard creation using Power BI, Plotly, and Matplotlib.<br><br><br>MLOps practices and tools like Docker, MLflow, and DVC
+# 👋 Hello! I'm Niraj Patil
+
+### 💫 About Me:
+
+I am an aspiring AI Engineer specializing in Generative AI, LLM evaluation, and agentic workflows. My focus is translating complex algorithms into scalable, interactive software solutions.
+
+---
+
+### 🚀 What I'm Focused On
+
+* **LLM Evaluation Platform (LMVal):** Developing a multi-metric LLM evaluation system using **LangChain, LangGraph, and Docker**. I'm currently building a **Streamlit dashboard** with Plotly for real-time analysis and multi-provider API integration (Groq, OpenAI).
+* **Agentic AI:** Exploring and implementing advanced **Generative AI** and **Agentic AI** workflows using tools like **LangGraph** and **CrewAI**.
+* **MLOps:** Proficient in MLOps, automated model deployment, and API integration.
+
+### 🤝 Let's Collaborate
+
+I am actively seeking collaboration on:
+
+* Advanced **Generative AI** and **Large Language Model (LLM)** projects, focusing on evaluation, fine-tuning, and RAG.
+* Developing scalable **MLOps** pipelines for automated deployment using **Docker, MLflow, and FastAPI**.
+* Research related to the role of **Quantum Computing** in Finance, Blockchain, and Stock Market Predictions (topic of my upcoming Springer book chapter).
+
+### 💡 Looking for Help With
+
+* Optimizing CI/CD pipelines for complex LLM applications using **GitHub Actions** and **Jenkins**.
+* Advanced **System Design** for high-load AI/ML platforms.
+
+### 📚 My Learning Path
+
+I am currently upskilling in:
+
+* In-depth concepts in Deep Learning: **Computer Vision** and **GANs**.
+* Cloud and Infrastructure: **AWS Cloud Practitioner**.
+* Advanced techniques in **Cybersecurity (CISCO)** and **Networking (CCNA)**.
+
+### 💬 Ask Me About
+
+* **Generative AI, LLM evaluation, and building agentic workflows**.
+* Creating personalized AI recommendation systems (e.g., **InDiet** project).
+* **MLOps** practices, **Docker, MLflow, and DVC**.
+* Data visualization and analysis using **Power BI, Plotly, and Matplotlib**.
+
+---
 
 
 # 💻 Tech Stack:
